@@ -15,6 +15,7 @@ pico_sdk_init()
 
 add_executable(mcp4251_driver
 	main.c
+	MCP4251_driver.c
 )
 
 
